@@ -14,17 +14,17 @@ Blog em PHP e MySQL! Este projeto é um site estilo blog completo que permite ao
 
 ## Demonstração
 
-Você pode conferir uma demonstração do projeto [aqui]([link_da_demonstracao](https://tdiascontato.000webhostapp.com/)).
+Você pode conferir uma demonstração do projeto [aqui](https://tdiascontato.000webhostapp.com/).
 
 ## Capturas de Tela
 
 Aqui estão algumas capturas de tela do projeto:
 
-![Dashboard](![image](https://github.com/tdiascontato/BlogPHP/assets/98658691/5fa30269-feff-4bc6-8b9e-2204a5cfb3c7)
+![Dashboard](https://github.com/tdiascontato/BlogPHP/assets/98658691/5fa30269-feff-4bc6-8b9e-2204a5cfb3c7)
 )
 *Painel de Controle*
 
-![Post](![image](https://github.com/tdiascontato/BlogPHP/assets/98658691/97c1a3c9-5e3a-447a-8f4e-77274e6daa72)
+![Post](https://github.com/tdiascontato/BlogPHP/assets/98658691/97c1a3c9-5e3a-447a-8f4e-77274e6daa72)
 )
 *Gerenciamento de Postagem*
 
