@@ -24,9 +24,10 @@ Aqui estão algumas capturas de tela do projeto:
 )
 *Painel de Controle*
 
-![Post](https://github.com/tdiascontato/BlogPHP/assets/98658691/97c1a3c9-5e3a-447a-8f4e-77274e6daa72)
+![Post](https://github.com/tdiascontato/BlogPHP/assets/98658691/ec292d97-011c-445f-8d7c-f215496611a2)
 )
-*Gerenciamento de Postagem*
+)
+*Aba Blog*
 
 ## Instalação e Uso
 
